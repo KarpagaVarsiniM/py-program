@@ -4,3 +4,4 @@ def get_element_at_index(numbers, index):
 numbers = input("enter a list (comma seperated):").split(",")
 index = int(input("Enter the index: "))
 get_element_at_index(numbers, index)
+

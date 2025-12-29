@@ -19,3 +19,4 @@ if occurrence_count > 0:
     print("Negative Index:", ", ".join(str(idx) for idx in negative_indices))
 else:
     print("Element", element, "is not present in the list.")
+
